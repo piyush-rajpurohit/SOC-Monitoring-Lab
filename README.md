@@ -1,6 +1,6 @@
 # SOC Analyst Project: Monitoring and Analysing Logs
 
-Welcome to the SOC Monitoring Lab repository! In this project, we demonstrate the setup and usage of Elastic cloud for monitoring event and logs. The provided video gives a comprehensive walkthrough of creating an account on Elastic Search, setting it up, and utilizing it for monitoring, using a sample malware script.
+Welcome to the SOC Monitoring Lab repository! In this project, I demonstrate the setup and usage of Elastic cloud for monitoring event and logs. The provided video gives a comprehensive walkthrough of creating an account on Elastic Search, setting it up, and utilizing it for monitoring, using a sample malware script.
 
 ## Video Demo
 
